@@ -1,0 +1,12 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+header {
+  margin-bottom: 100px;
+}
