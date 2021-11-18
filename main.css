@@ -11,6 +11,10 @@ header {
   margin-bottom: 100px;
 }
 
+ol li {
+  margin: 8px 0;
+}
+
 .tine {
   color: pink;
   background-color: rgb(202, 102, 119);
