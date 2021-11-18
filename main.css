@@ -10,3 +10,8 @@ body {
 header {
   margin-bottom: 100px;
 }
+
+.tine {
+  color: pink;
+  background-color: rgb(202, 102, 119);
+}
