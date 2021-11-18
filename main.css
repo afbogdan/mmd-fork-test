@@ -10,3 +10,8 @@ body {
 header {
   margin-bottom: 100px;
 }
+
+.ida {
+  color: orange;
+  font-weight: bolder;
+}
