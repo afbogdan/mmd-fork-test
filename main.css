@@ -11,6 +11,11 @@ header {
   margin-bottom: 100px;
 }
 
+.josefine {
+  color: darkgreen;
+  background-color: lightgreen;
+}
+
 .ida {
   color: orange;
   font-weight: bolder; 
