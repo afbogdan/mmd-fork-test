@@ -11,6 +11,11 @@ header {
   margin-bottom: 100px;
 }
 
+.ida {
+  color: orange;
+  font-weight: bolder; 
+}
+
 .nnj {
   color: yellowgreen;
   font-size: 32px;
