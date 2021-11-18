@@ -11,6 +11,12 @@ header {
   margin-bottom: 100px;
 }
 
+
+.dishaan{
+  background-color: black;
+  color: white;
+}
+
 ol li {
   margin: 8px 0;
 }
