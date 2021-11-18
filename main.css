@@ -13,5 +13,48 @@ header {
 
 .Helena {
   background-color: aquamarine;
-  
+}
+
+.mette {
+  color: blue;
+}
+
+.dishaan{
+  background-color: black;
+  color: white;
+}
+
+ol li {
+  margin: 8px 0;
+}
+
+.tine {
+  color: pink;
+  background-color: rgb(202, 102, 119);
+}
+
+.josefine {
+  color: darkgreen;
+  background-color: lightgreen;
+}
+
+.ida {
+  color: orange;
+  font-weight: bolder; 
+}
+
+.nnj {
+  color: yellowgreen;
+  font-size: 32px;
+}
+
+.jeppe {
+  font-size: 30px;
+  font-family: Arial, 'Helvetica', sans-serif;
+  background-color: darkblue;
+  color: white; 
+}
+
+.laura {
+  color: rgb(25, 121, 121);
 }
